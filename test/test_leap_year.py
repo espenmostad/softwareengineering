@@ -1,7 +1,7 @@
 import pytest
 
-from src.year import Year
-from src.main import *
+from no.hiof.espenmos.src.year import Year
+from no.hiof.espenmos.src.main import *
 
 @pytest.fixture()
 def year():
