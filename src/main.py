@@ -1,4 +1,4 @@
-def new_method_which_is_not_relevant()
+def new_method_which_is_not_relevant():
     #Just a method to check if tests run when commited
     number = 1 + 1
 
