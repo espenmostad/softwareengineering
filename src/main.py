@@ -1,3 +1,7 @@
+def new_method_which_is_not_relevant()
+    #Just a method to check if tests run when commited
+    number = 1 + 1
+
 def check_divisible_by_4_but_not_100(year):
    is_leap = False
 
@@ -53,3 +57,5 @@ for year in years:
         leap_string = "is not a leap year"
 
     print(f"The year {year} {leap_string}")
+
+
