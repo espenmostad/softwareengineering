@@ -1,7 +1,8 @@
 import pytest
 
-from src.year import *
 from src.main import *
+from src.year import *
+
 
 @pytest.fixture()
 def year():
